@@ -1,4 +1,4 @@
-package com.zmf.temp1.util;
+package com.dao.custom.util;
 
 import com.zmf.temp1.annotation.Entity;
 

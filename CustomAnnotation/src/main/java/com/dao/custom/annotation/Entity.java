@@ -1,4 +1,4 @@
-package com.zmf.temp1.annotation;
+package com.dao.custom.annotation;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

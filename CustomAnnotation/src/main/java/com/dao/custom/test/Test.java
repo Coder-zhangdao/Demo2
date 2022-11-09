@@ -1,4 +1,4 @@
-package com.zmf.temp1.test;
+package com.dao.custom.test;
 
 import com.zmf.temp1.entity.CityEntity;
 import com.zmf.temp1.util.CommUtil;
